@@ -1,7 +1,7 @@
 SecureNotes - Persistent Web-Based Note Management
 A lightweight, responsive React-based web application designed for efficient note-taking and local data persistence. This project demonstrates proficiency in React state management, CRUD operations, and deployment automation via GitHub Pages.
 
-Live Demo: kaushikdacharya.github.io/notes_app/
+Live Demo: https://kaushikdacharya.github.io/notes_app/
 
 🚀 Overview
 SecureNotes provides a streamlined interface for users to capture thoughts, organize ideas, and manage content directly within the browser. By leveraging modern frontend architecture, the application ensures a seamless user experience with zero-latency data handling.
